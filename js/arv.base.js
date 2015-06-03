@@ -2,14 +2,11 @@ function getConsignmentListing() {
     var source_data = {}
     ;
 
-    jQuery.ajax({
-        url:      'data.html',
-        success:  function( response ){
-            source_data = JSON.parse( response );
+    $.getJSON( 'arv.data.json', function( data ) {
+        source_data = $.parseJSON( data );
 
-            jQuery( source_data.listings ).each( function( index, listing ){
-                jQuery('<li/>').html(listing.name).append('#arv_listings');
-            });
-        }
+        $.each( source_data.listings, function( listing ) {
+            alert( JSON.stringify( listing.name ) );
+        });
     });
 }
