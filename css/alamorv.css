@@ -47,10 +47,11 @@
 }
 
 .footer h1, .footer h3 {
-  font-weight: 400;
+  font-weight: 100;
 }
 
 .footer p {
+  font-weight: 300;
   margin-bottom: 0;
   padding-bottom: 20px;
 }

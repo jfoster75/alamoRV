@@ -1,3 +1,20 @@
-body {
-  padding-top: 51px;
+.rv-image {
+  margin-bottom: 15px;;
 }
+
+.description {
+  font-size: 18px;
+}
+
+.data-table {
+  font-size: 16px;
+}
+
+.key {
+  font-weight: 500;
+}
+
+.value {
+  text-align: right;
+}
+
