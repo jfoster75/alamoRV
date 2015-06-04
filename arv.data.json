@@ -1,50 +1,169 @@
-{"listings":[
 {
-"id": 1,
-"name": "2015 Winebago",
-"description": "This baby has it all! Moon Roof, A/C, Power windows...",
-"price": "$1,000.00",
-"contact":{
-"name": "person",
-"phone": "123-456-7890",
-"email": "email@thisaddress.com"
-},
-"images": [{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"}]
-},
-{
-"id": 1,
-"name": "2015 Winebago",
-"description": "This baby has it all! Moon Roof, A/C, Power windows...",
-"price": "$1,000.00",
-"contact":{
-"name": "person",
-"phone": "123-456-7890",
-"email": "email@thisaddress.com"
-},
-"images": [{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"}]
-},
-{
-"id": 1,
-"name": "2015 Winebago",
-"description": "This baby has it all! Moon Roof, A/C, Power windows...",
-"price": "$1,000.00",
-"contact":{
-"name": "person",
-"phone": "123-456-7890",
-"email": "email@thisaddress.com"
-},
-"images": [{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"}]
-},
-{
-"id": 1,
-"name": "2015 Winebago",
-"description": "This baby has it all! Moon Roof, A/C, Power windows...",
-"price": "$1,000.00",
-"contact":{
-"name": "person",
-"phone": "123-456-7890",
-"email": "email@thisaddress.com"
-},
-"images": [{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"},{"name":"image 1","url":"/images/image1.jpg"}]
+  "listings": [
+    {
+      "id": 1,
+      "name": "1910 Winebago",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "price": "$1,000.00",
+      "contact": {
+        "name": "person",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "1950 Winebago",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "price": "$1,000.00",
+      "contact": {
+        "name": "person",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "1980 Winebago",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "price": "$1,000.00",
+      "contact": {
+        "name": "person",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "2015 Winebago",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "price": "$1,000.00",
+      "contact": {
+        "name": "person",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "2024 Winebago",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "price": "$1,000.00",
+      "contact": {
+        "name": "person",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    }
+  ]
 }
-]}
