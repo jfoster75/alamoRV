@@ -1,9 +1,17 @@
-.rv-image {
-  margin-bottom: 15px;;
+.orange-stripe {
+  background-color: #cf6e31;
+  border-bottom: 1px solid #a95018;
+  height: 20px;
+}
+
+.detail-container {
+  margin-bottom: 20px;
+  margin-top: 50px;
 }
 
 .description {
-  font-size: 18px;
+  font-size: 16px;
+  margin: 15px 0;
 }
 
 .data-table {
@@ -18,3 +26,28 @@
   text-align: right;
 }
 
+.sales-contact {
+  margin-bottom: 30px;
+}
+
+.sales-contact h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.sales-contact p {
+  font-size: 1.2em;
+  margin-bottom: 0;
+}
+
+.rv-image {
+  margin-bottom: 30px;
+}
+
+.mobile-repair {
+  border-top: 1px solid #a95018;
+}
+
+.parts-service {
+  border: 0;
+}

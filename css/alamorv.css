@@ -1,14 +1,64 @@
+.logo {
+  width: 100%;
+}
+
+.mobile-repair {
+  background-color: #cf6e31;
+  border-bottom: 1px solid #a95018;
+  color: #000000;
+  padding: 5px 0;
+}
+
+.mobile-repair h3 {
+  font-size: 1.6em;
+  margin: 10px 0 5px;
+}
+
+.mobile-repair p {
+  font-size: 1.2em;
+}
+
+/* Overrides Bootstrap */
 .jumbotron {
   margin-bottom: 0;
 }
 
-.separator {
-  font-size: .8em;
-  margin: 0 1.754385964912%;
+.parts-service {
+  border-bottom: 1px solid #dddddd;
+  padding: 20px 0 25px 0;
 }
 
 .sales-container {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+
+/* Overrides Bootstrap */
+.page-header {
+  margin-top: 0;
+}
+
+/* Overrides Bootstrap */
+.panel {
+  margin-bottom: 30px;
+}
+
+/* Overrides Bootstrap */
+.btn-primary {
+  color: #fff;
+  background-color: #4db12a;
+  border-color: #369114;
+}
+
+/* Overrides Bootstrap */
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active {
+  color: #fff;
+  background-color: #1f7001;
+  border-color: #165000;
 }
 
 .rv-image {
@@ -16,55 +66,34 @@
 }
 
 .rv-price {
-  border-bottom: 1px solid #eeeeee;
-  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #dbdbdb;
+  border-top: 1px solid #dbdbdb;
   margin-top: 10px;
   margin-bottom: 10px;
   padding: 10px 0;
 }
 
-.mobile-repair {
-  background-color: #dddddd;
-  padding: 0;
-}
-
-.mobile-repair h3 {
-  margin-bottom: 0;
-}
-
-.parts-service {
-  padding: 20px 0;
-}
-
-.last-row {
-  margin-bottom: 20px;
+.consignment {
+  background-color: #4db12a;
+  border-top: 1px solid #369114;
+  color: #ffffff;
 }
 
 .footer {
-  background-color: #444444;
+  background-color: #222222;
   color: #eeeeee;
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
-.footer h1, .footer h3 {
-  font-weight: 100;
+.footer h3.info {
+  font-size: 2.2em;
+  font-weight: 500;
+  margin-bottom: 10px;
 }
 
-.footer p {
-  font-weight: 300;
+.footer p.info {
+  font-size: 1.6em;
+  font-weight: 400;
   margin-bottom: 0;
   padding-bottom: 20px;
-}
-
-.footer hr {
-  border-color: #888888;
-  margin: 20px 0;
-}
-
-h3.info {
-  margin-bottom: 15px;
-}
-
-p.info {
-  font-size: 1.4em;
 }

@@ -2,15 +2,40 @@
   "listings": [
     {
       "id": 1,
-      "name": "1910 Winebago",
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
       "description": "This baby has it all! Moon Roof, A/C, Power windows...",
-      "price": "$1,000.00",
       "contact": {
-        "name": "person",
+        "name": "Alex",
         "phone": "123-456-7890",
         "email": "email@thisaddress.com"
       },
       "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
         {
           "name": "image 1",
           "src": "images/rv.svg"
@@ -35,15 +60,40 @@
     },
     {
       "id": 2,
-      "name": "1950 Winebago",
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
       "description": "This baby has it all! Moon Roof, A/C, Power windows...",
-      "price": "$1,000.00",
       "contact": {
-        "name": "person",
+        "name": "Alex",
         "phone": "123-456-7890",
         "email": "email@thisaddress.com"
       },
       "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
         {
           "name": "image 1",
           "src": "images/rv.svg"
@@ -68,15 +118,40 @@
     },
     {
       "id": 3,
-      "name": "1980 Winebago",
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
       "description": "This baby has it all! Moon Roof, A/C, Power windows...",
-      "price": "$1,000.00",
       "contact": {
-        "name": "person",
+        "name": "Alex",
         "phone": "123-456-7890",
         "email": "email@thisaddress.com"
       },
       "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
         {
           "name": "image 1",
           "src": "images/rv.svg"
@@ -101,15 +176,40 @@
     },
     {
       "id": 4,
-      "name": "2015 Winebago",
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
       "description": "This baby has it all! Moon Roof, A/C, Power windows...",
-      "price": "$1,000.00",
       "contact": {
-        "name": "person",
+        "name": "Alex",
         "phone": "123-456-7890",
         "email": "email@thisaddress.com"
       },
       "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
         {
           "name": "image 1",
           "src": "images/rv.svg"
@@ -134,15 +234,272 @@
     },
     {
       "id": 5,
-      "name": "2024 Winebago",
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
       "description": "This baby has it all! Moon Roof, A/C, Power windows...",
-      "price": "$1,000.00",
       "contact": {
-        "name": "person",
+        "name": "Alex",
         "phone": "123-456-7890",
         "email": "email@thisaddress.com"
       },
       "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "contact": {
+        "name": "Alex",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "contact": {
+        "name": "Alex",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "year": "1910",
+      "model": "Winebago",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "contact": {
+        "name": "Alex",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "year": "1910",
+      "model": "Winebago5",
+      "type": "Class A",
+      "length": "41",
+      "mileage": "52,341",
+      "slides": "2",
+      "price": "$10,000",
+      "description": "This baby has it all! Moon Roof, A/C, Power windows...",
+      "contact": {
+        "name": "Alex",
+        "phone": "123-456-7890",
+        "email": "email@thisaddress.com"
+      },
+      "images": [
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
+        {
+          "name": "image 1",
+          "src": "images/rv.svg"
+        },
         {
           "name": "image 1",
           "src": "images/rv.svg"

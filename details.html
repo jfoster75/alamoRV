@@ -7,12 +7,17 @@
   <title>Alamo RV & Truck Center</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/alamorv.css">
+  <link rel="stylesheet" href="css/alamorv-detail.css">
 </head>
 <body>
 
   <div>
-    <img class="logo" src="images/alamorv-logo.jpg">
+    <a href="index.html"><img class="logo" src="images/alamorv-logo.jpg"></a>
   </div>
+
+  <div class="orange-stripe"></div>
+
+  <div id="arv-details" class="container detail-container"></div>
 
   <div class="mobile-repair">
     <div class="container">
@@ -33,10 +38,6 @@
     </div>
   </div>
 
-  <div id="arv-listings" class="container sales-container">
-    <h2 class="page-header"><a id="current-listing"></a>RVs For Sale</h2>
-  </div>
-
   <div class="jumbotron consignment">
     <div class="container text-center">
       <h1>Trying to sell an RV?</h1>
@@ -51,7 +52,7 @@
         <div class="col-sm-4">
           <h3 class="info">Location</h3>
           <p class="info">7023 Hwy 54-70<br>
-             Alamogordo, NM 88310</p>
+            Alamogordo, NM 88310</p>
         </div>
         <div class="col-sm-4">
           <h3 class="info">Hours</h3>
@@ -66,11 +67,11 @@
     </div>
   </div>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/arv.base.js"></script>
+  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="js/arv.details.js"></script>
   <script>
     $( document ).ready(function() {
-      getConsignmentListing();
+      getListingDetails(window.location.href.match(/id=(\d+)/)[1]);
     });
   </script>
 
