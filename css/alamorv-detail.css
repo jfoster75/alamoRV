@@ -9,6 +9,11 @@
   margin-top: 50px;
 }
 
+/* Overrides bootstrap.css and alamorv.css  */
+.panel {
+  margin-bottom: 20px;
+}
+
 .description {
   font-size: 16px;
   margin: 15px 0;
@@ -42,6 +47,10 @@
 
 .rv-image {
   margin-bottom: 30px;
+}
+
+.rv-img-lg {
+  width: 80%;
 }
 
 .mobile-repair {

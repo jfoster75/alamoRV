@@ -33,6 +33,13 @@ var getListingDetails = function(id) {
       + '</div>';
 
       $('#arv-details').append(return_html);
+
+      $('.rv-image').on('click', function() {
+        var src = $(this).attr('src');
+        $('#modal-image').attr('src', src);
+        $('#image-modal').modal('show');
+      });
+
     }
   });
 };
@@ -100,7 +107,7 @@ var getRightColumn = function(listing) {
 };
 
 var createColumn = function(image_src) {
-  var column = '<div class="col-sm-3"><img class="thumbnail rv-image" src="' + image_src + '"></div>';
+  var column = '<div class="col-sm-3"><img class="thumbnail modal-image rv-image" src="' + image_src + '"></div>';
 
   return column;
 }
@@ -110,3 +117,4 @@ var createRow = function(columns) {
 
   return row;
 }
+
