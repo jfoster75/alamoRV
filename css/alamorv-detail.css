@@ -47,6 +47,7 @@
 
 .rv-image {
   margin-bottom: 30px;
+  cursor: pointer;
 }
 
 .rv-img-lg {
@@ -59,4 +60,12 @@
 
 .parts-service {
   border: 0;
+}
+
+.arv-return-link-top {
+  margin-bottom: 10px;
+}
+
+.arv-return-link-bottom {
+  margin-top: 10px;
 }

@@ -26,11 +26,14 @@ var getListingDetails = function(id) {
       console.log(listing);
 
       return_html = String()
+      + '<a class="btn btn-primary btn-lg arv-return-link-top" href="index.html">Return to listings >></a>'
       + '<h2 class="page-header">' + listing.year + ' ' + listing.model + '</h2>'
       + '<div class="row">'
       + ' <div class="col-sm-3">' + getLeftColumn(listing) + ' </div>'
       + ' <div class="col-sm-9">' + getRightColumn(listing) + ' </div>'
-      + '</div>';
+      + '</div>'
+      + '<a class="btn btn-primary btn-lg arv-return-link-bottom" href="index.html">Return to listings >></a>'
+      ;
 
       $('#arv-details').append(return_html);
 
