@@ -14,6 +14,12 @@
   margin-bottom: 20px;
 }
 
+.panel-footer {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  margin-bottom: 0;
+}
+
 .description {
   font-size: 16px;
   margin: 15px 0;
@@ -23,26 +29,18 @@
   font-size: 16px;
 }
 
+.back-btn {
+  margin-bottom: 30px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .key {
   font-weight: 500;
 }
 
 .value {
   text-align: right;
-}
-
-.sales-contact {
-  margin-bottom: 30px;
-}
-
-.sales-contact h3 {
-  margin-top: 0;
-  margin-bottom: 10px;
-}
-
-.sales-contact p {
-  font-size: 1.2em;
-  margin-bottom: 0;
 }
 
 .rv-image {

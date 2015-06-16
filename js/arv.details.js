@@ -26,13 +26,11 @@ var getListingDetails = function(id) {
       console.log(listing);
 
       return_html = String()
-      + '<a class="btn btn-primary btn-lg arv-return-link-top" href="index.html">Return to listings >></a>'
       + '<h2 class="page-header">' + listing.year + ' ' + listing.model + '</h2>'
       + '<div class="row">'
       + ' <div class="col-sm-3">' + getLeftColumn(listing) + ' </div>'
       + ' <div class="col-sm-9">' + getRightColumn(listing) + ' </div>'
       + '</div>'
-      + '<a class="btn btn-primary btn-lg arv-return-link-bottom" href="index.html">Return to listings >></a>'
       ;
 
       $('#arv-details').append(return_html);
@@ -80,12 +78,13 @@ var getLeftColumn = function(listing) {
     + '        <td class="value">' + listing.type + '</td>'
     + '      </tr>'
     + '    </table>'
+    + '    <div class="panel panel-footer">'
+    + '      <h4>Like it?</h4>'
+    + '      <p>Contact ' + listing.contact.name + ' at <strong>' + listing.contact.phone + '</strong>.</p>'
+    + '    </div>'
     + '  </div>'
-    + '  <div class="well sales-contact">'
-    + '    <h3>Like it?</h3>'
-    + '    <p>Contact ' + listing.contact.name + ' at <strong>' + listing.contact.phone + '</strong>.</p>'
-    + '  </div>'
-  ;
+    + '  <a class="btn btn-primary btn-lg btn-block back-btn" href="index.html#current-listing">&laquo; Back to Listings</a>'
+    ;
 
   return return_html;
 };
